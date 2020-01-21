@@ -6,8 +6,10 @@ body {
   }
 
 
-/*  
+ 
   .jumbotron {
-    padding: 5px 5px 5px 5px !important;
-    display: inline-block!important;
-} */
+    padding: 20px 10px 10px 10px !important;
+    /* display: inline-block!important; */
+} 
+
+
